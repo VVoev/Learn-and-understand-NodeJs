@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/D10-More-On-Require\\D9_MoreOnRequire\\Starter\\app.js"
+            "program": "${workspaceFolder}/D11-Module-Patterns\\D11_ModulePatterns\\Starter\\app.js"
         }
     ]
 }
