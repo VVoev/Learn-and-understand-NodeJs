@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/D2-First-Class-Functions\\D2_FirstClassFunctions\\Starter\\app.js"
+            "program": "${workspaceFolder}/D3-Lets-Build-A-Module\\D3_LetsBuildAModule\\Starter\\app.js"
         }
     ]
 }
