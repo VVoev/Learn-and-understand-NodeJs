@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/D3-Lets-Build-A-Module\\D3_LetsBuildAModule\\Starter\\app.js"
+            "program": "${workspaceFolder}/D10-More-On-Require\\D9_MoreOnRequire\\Starter\\app.js"
         }
     ]
 }
