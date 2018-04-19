@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/C6-Lets-Run-Some-Javascript\\C6_LetsRunSomeJavascript\\Starter\\app.js"
+            "program": "${workspaceFolder}/D2-First-Class-Functions\\D2_FirstClassFunctions\\Starter\\app.js"
         }
     ]
 }
