@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/D11-Module-Patterns\\D11_ModulePatterns\\Starter\\app.js"
+            "program": "${workspaceFolder}/EventsAndTheEventEmitter\\E3-Event-Emitter-Part-1\\E3_EventEmitterPart1\\Starter\\app.js"
         }
     ]
 }
