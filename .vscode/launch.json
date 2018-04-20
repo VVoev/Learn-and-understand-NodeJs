@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/EventsAndTheEventEmitter\\E3-Event-Emitter-Part-1\\E3_EventEmitterPart1\\Starter\\app.js"
+            "program": "${workspaceFolder}/EventsAndTheEventEmitter\\E6-Inheriting-From-Event-Emitter\\E6_InheritingFromEventEmitter\\Starter\\app.js"
         }
     ]
 }
