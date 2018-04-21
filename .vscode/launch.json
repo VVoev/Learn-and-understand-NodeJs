@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/EventsAndTheEventEmitter\\E6-Inheriting-From-Event-Emitter\\E6_InheritingFromEventEmitter\\Starter\\app.js"
+            "program": "${workspaceFolder}/AsynchronousCode_libuv_The_Event_Loop_Streams_Files\\F9-Streams\\F9_Streams\\Starter\\app.js"
         }
     ]
 }
