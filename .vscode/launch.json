@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/HTTP_and_being_a_Web_Server\\G5-Lets-Build-A-Web-Server\\G5_LetsBuildAWebServer\\Starter\\app.js"
+            "program": "${workspaceFolder}/Express\\I5-Querystrings-And-Post\\I5_QuerystringsAndPost\\Starter\\app.js"
         }
     ]
 }
